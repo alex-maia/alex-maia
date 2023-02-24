@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Alexandre Maia, Web Developer based in Portugal. I am a Junior working on several projects as a full stack developer. I’m currently working on <a href="http://www.cofina.pt/">Cofina</a></h2>
 &emsp;
 
-## Me around the web:
+## 🌍 Me around the web:
 
 &emsp;
 <a href="https://www.linkedin.com/in/alexandre-maia05/">
