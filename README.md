@@ -3,17 +3,15 @@
 
 ## 🌍 Me around the web:
 
-&emsp;
 <a href="https://www.linkedin.com/in/alexandre-maia05/">
- ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)
+ <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn Badge">
 </a>
 <a href="https://www.instagram.com/alex_maia05/">
- ![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)
+ <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" alt="Instagram Badge">
 </a>
 <a href="https://github.com/alex-maia">
-  ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub Badge">
 </a>
-&emsp;
 
 ## 🛠️ My Skills
 ### Programming languages:
