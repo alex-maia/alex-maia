@@ -68,9 +68,12 @@
 ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=for-the-badge)
 ![Sourcetree Badge](https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=fff&style=for-the-badge)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
+![Laragon Badge](https://img.shields.io/badge/Laragon-0E83CD?logo=laragon&logoColor=fff&style=for-the-badge)
+![MAMP Badge](https://img.shields.io/badge/MAMP-02749C?logo=mamp&logoColor=fff&style=for-the-badge)
 ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge)
 ![GitKraken Badge](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=fff&style=for-the-badge)
 ![FileZilla Badge](https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=fff&style=for-the-badge)
+![XAMPP Badge](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
