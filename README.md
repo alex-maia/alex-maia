@@ -14,7 +14,7 @@
 
 - Web Developer based in Portugal
 - Junior working on several projects as a full stack developer
-- I’m currently working on <a href="http://www.cofina.pt/">Cofina</a>
+- I’m currently working on <a href="https://www.medialivre.pt">Medialivre</a>
 
 <br>
 
