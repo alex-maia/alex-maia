@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web Developer based in Portugal<br>Working on several projects as a Frontend developer<br>I’m currently working on Medialivre
+Web Developer based in Portugal<br>Working on several projects as a Frontend developer<br>I’m currently working on <a href="https://www.medialivre.pt/" target="_blank">Medialivre</a>
 
 
 ## 🌐 Socials:
